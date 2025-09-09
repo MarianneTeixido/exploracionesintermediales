@@ -13,8 +13,9 @@ Explorar la relación entre cuerpo, sonido y tecnología para crear propuestas e
 
 ## Tarea
 1. Traer un objeto cotidiano que genere sonido o vibración.  
-2. Escribir una breve reflexión en la bitácora:  
-   - ¿Qué experiencia tuviste al *sentir* un sonido más que escucharlo?  
-   - ¿Qué parte de tu cuerpo identificas como más resonante?  
+2. Leer
+   - Primera parte del [Manifiesto Cyborg de Donna Haraway](assets/pdf/ciborg.pdf)  
+   - Prefacio [Fragmentar el futuro. Ensayos sobre la tecnodiversidad de Yuk Hui](assets/pdf/fragmentar.pdf)
+
 
 ---
