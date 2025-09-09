@@ -14,8 +14,8 @@ Explorar la relación entre cuerpo, sonido y tecnología para crear propuestas e
 ## Tarea
 1. Traer un objeto cotidiano que genere sonido o vibración.  
 2. Leer
-   - Primera parte del [Manifiesto Cyborg de Donna Haraway](assets/pdf/ciborg.pdf)  
-   - Prefacio [Fragmentar el futuro. Ensayos sobre la tecnodiversidad de Yuk Hui](assets/pdf/fragmentar.pdf)
+   - Primera parte del [Manifiesto Cyborg de Donna Haraway](https://github.com/MarianneTeixido/exploracionesintermediales/blob/main/assets/pdf/ciborg.pdf)  
+   - Prefacio [Fragmentar el futuro. Ensayos sobre la tecnodiversidad de Yuk Hui](https://github.com/MarianneTeixido/exploracionesintermediales/blob/main/assets/pdf/fragmentar.pdf) (Opcional)
 
 
 ---
