@@ -25,7 +25,8 @@ Este taller propone un espacio de creación e investigación donde cuerpo, sonid
 | Notas       | Fecha          |
 |:-------------|:------------------|
 | 1. [Bievenida El cuerpo como interfaz sonora](./docs/sesion1.md) | 5 septiembre |
-| 2. Cuerpos prótesis | 12 septiembre   |  
+| 2. [Prótesis corporales y extensiones sonoras](./docs/sesion2.md) | 12 septiembre   |  
+
 
 [Bibliografía](./docs/biblografia.md) 
 
