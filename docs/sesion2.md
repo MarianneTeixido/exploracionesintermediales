@@ -21,6 +21,11 @@ Explorar el concepto de prótesis corporal como extensión creativa del cuerpo e
     Tu navegador no soporta la reproducción de video.
 </video>
 
+<audio controls>
+  <source src="../assets/audio/audiosesion2.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ## Tarea
 1. Traer un retrato sonoro en audio o video con el objeto/prótesis seleccionado.  
 2. Traer citas de las lecturas de la sesión para discutir en clase. 
