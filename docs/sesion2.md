@@ -11,13 +11,13 @@ Explorar el concepto de prótesis corporal como extensión creativa del cuerpo e
 - Composición ciborg: Diseño de micro-escenas donde la prótesis altera el gesto, la presencia escénica y la narrativa, evidenciando su rol en el ensamblaje.
 
 ## Referencias artísticas 
-[Stelarc](http://stelarc.org/_.php#page/1): Explora extensiones robóticas del cuerpo y la interfaz hombre-máquina.
+[Stelarc](http://stelarc.org/_.php#page/1): Explora extensiones robóticas del cuerpo y la interfaz hombre-máquina.   
 [Transplant por Quimera Rosa](https://quimerarosa.net/transplant/): Un proyecto de bio-hacking que cuestiona los límites corporales y los constructos sociales.
 
 ## Registro de la sesión
 
 <video controls width="600">
-    <source src="../assets/video/sesion2.mp4" type="video/quicktime">
+    <source src="../assets/video/sesion2.mp4" type="video/mp4">
     Tu navegador no soporta la reproducción de video.
 </video>
 
@@ -25,7 +25,7 @@ Explorar el concepto de prótesis corporal como extensión creativa del cuerpo e
 1. Traer un retrato sonoro en audio o video con el objeto/prótesis seleccionado.  
 2. Traer citas de las lecturas de la sesión para discutir en clase. 
    - Primera parte del [Manifiesto Cyborg de Donna Haraway](https://github.com/MarianneTeixido/exploracionesintermediales/blob/main/assets/pdf/ciborg.pdf)  
-   - Prefacio [Fragmentar el futuro. Ensayos sobre la tecnodiversidad de Yuk Hui](https://github.com/MarianneTeixido/exploracionesintermediales/blob/main/assets/pdf/fragmentar.pdf) (Opcional)
+   - Prefacio [Fragmentar el futuro. Ensayos sobre la tecnodiversidad de Yuk Hui](https://github.com/MarianneTeixido/exploracionesintermediales/blob/main/assets/pdf/fragmentar.pdf)
 
 
 ---
