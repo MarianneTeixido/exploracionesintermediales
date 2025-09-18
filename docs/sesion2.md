@@ -17,7 +17,7 @@ Explorar el concepto de prótesis corporal como extensión creativa del cuerpo e
 ## Registro de la sesión
 
 <video controls width="600">
-    <source src="../assets/video/sesion2.mov" type="video/quicktime">
+    <source src="../assets/video/sesion2.mp4" type="video/quicktime">
     Tu navegador no soporta la reproducción de video.
 </video>
 
