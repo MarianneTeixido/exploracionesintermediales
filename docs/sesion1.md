@@ -11,6 +11,13 @@ Explorar la relación entre cuerpo, sonido y tecnología para crear propuestas e
 - Introducción a artistas como **Ariel Guzik** y **Leslie García** que utilizan tecnología como prótesis de escucha y comunicación interespecie.  
 - Creación de pequeñas **partituras sonoro-corporales** en grupo.  
 
+## Registro de la sesión
+
+<video controls width="600">
+    <source src="../assets/video/sesion1.mp4" type="video/mp4">
+    Tu navegador no soporta la reproducción de video.
+</video>
+
 ## Tarea
 1. Traer un objeto cotidiano que genere sonido o vibración.  
 2. Leer
