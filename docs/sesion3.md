@@ -16,21 +16,24 @@ Explorar la espacialización sonora como escenografía no visible, transformando
 
 ## Referencias artísticas 
 
-- Samuel Beckett - "Breath"
+### Samuel Beckett - "Breath"  
+- [Guión de la obra disponible aquí](../assets/pdf/Aliento.pdf)
 
-[Guión de la obra disponible aquí](../assets/pdf/Aliento.pdf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rZ8xParVmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rZ8xParVmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Nikos Navridis - "Breath (on Samuel Beckett)"   
+Interpretación visual y sonora del concepto de respiro como evento dramático.  
 
-- Nikos Navridis - "Breath (on Samuel Beckett)": Interpretación visual y sonora del concepto de respiro como evento dramático.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4s3V_rNyUvo?si=GQPhUBx2zCUlWKa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4s3V_rNyUvo?si=GQPhUBx2zCUlWKa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Damien Hirst - "Breath"   
+Apropiación contemporánea de la obra de Beckett.   
 
-- Damien Hirst - "Breath": Apropiación contemporánea de la obra de Beckett.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K25ZpAQ4-4M?si=KDQqoaPjSMQwX_mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K25ZpAQ4-4M?si=KDQqoaPjSMQwX_mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Ejercicio  
 
-## Ejercicio
 Creación de micro-escena sonora-visual en tres actos  
 1. Definir el tema/concepto.    
 2. Elegir la imagen que veremos (retrato en movimiento)    
@@ -40,10 +43,9 @@ Creación de micro-escena sonora-visual en tres actos
 
 
 ## Tarea
-1. - Leer los textos
+1. - Traer el guión escrito, uno por equipo, para la creación de la escena en tres actos.     
+2. - Leer los textos
    - [Intermedialidad en el siglo XXI de Ruth Cubillo Paniagua](https://github.com/MarianneTeixido/exploracionesintermediales/blob/main/assets/pdf/La_intermedialidad_en_el_siglo_XXI.pdf)  
    - [Intermedialidad: territorio de confluencias mediales y disciplinares, bisagra de la teoría y práctica en las artes de Maria Andrea Giovine Yáñez](https://github.com/MarianneTeixido/exploracionesintermediales/blob/main/assets/pdf/03_Intermedialidad_territorio_de_confluencias_mediales_y_disciplinares_bisagra_de_la_teoria_y_practica_en_las_artes.pdf)
 
-
 ---
-## Video
