@@ -1,4 +1,4 @@
-# Sesión 2 – El sonido como espacio dramático
+# Sesión 3 – El sonido como espacio dramático
 
 ## Objetivo
 Explorar la espacialización sonora como escenografía no visible, transformando el sonido de un elemento de fondo a un agente escénico activo y moldeable que expande los límites del espacio visible.  
