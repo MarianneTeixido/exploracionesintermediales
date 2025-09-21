@@ -16,22 +16,25 @@ Explorar la espacialización sonora como escenografía no visible, transformando
 
 ## Referencias artísticas 
 
-- Samuel Beckett - "Breath": Obra que reduce el teatro a su esencia: un respiro, silencio y luz.
+- Samuel Beckett - "Breath"
+
+[Guión de la obra disponible aquí](../assets/pdf/Aliento.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1rZ8xParVmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - Nikos Navridis - "Breath (on Samuel Beckett)": Interpretación visual y sonora del concepto de respiro como evento dramático.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4s3V_rNyUvo?si=GQPhUBx2zCUlWKa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Damien Hirst - "Breath": Apropiación contemporánea de la obra de Beckett.
 
-## Ejercicio
-Cartografía sonora de objetos    
-- Consigna: Deben espacializar estos 3 sonidos para contar una micro-historia de 30 segundos. 
-Ej: Un rasgado que viene de atrás, un golpe seco muy cerca a la izquierda, y el sonido de arrugar que se aleja hacia la derecha. El foco está en la ubicación y el movimiento del sonido, no en su musicalidad.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K25ZpAQ4-4M?si=KDQqoaPjSMQwX_mc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Creación de micro-escena sonora-visual.  
-1. Definir el tema/concepto.  
-2. Elegir la imagen que veremos (retrato en movimiento)  
-3. Elegir/grabar/encontrar sus 3 sonidos.  
+## Ejercicio
+Creación de micro-escena sonora-visual en tres actos  
+1. Definir el tema/concepto.    
+2. Elegir la imagen que veremos (retrato en movimiento)    
+3. Elegir/grabar/encontrar sus 3 sonidos.    
 4. Diseñar la "partitura espacial": un dibujo o mapa de cómo se moverán los sonidos en el espacio y el tiempo.  
 5. Ensayar la ejecución ¿hay además algún sonido en vivo?   
 
