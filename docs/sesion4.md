@@ -36,6 +36,101 @@ Este ejercicio transformó la lectura pasiva en una decodificación colectiva de
 Después de un receso comenzamos con el **montaje y presentación** de las obras. La dinámica fue un **"Laboratorio de Agencias"**, donde cada presentación fue un experimento sobre la relación de poder entre los sonidos y la dramaturgia en tres actos.
 *   Cada equipo tuvo un tiempo ágil para montaje y presentación.
 
+### 🎥 Registro de la Sesión: Archivos Multimedia
+
+### Equipo 1
+**Crujido**
+
+<div class="media-grid">
+
+![Video Equipo 1](../assets/video/sesion4.mp4)
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 1rem 0;">
+<video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  <source src="../assets/video/sesion4.mp4" type="video/mp4">
+</video>
+</div>
+
+<audio controls style="width: 100%; margin: 0.5rem 0;">
+  <source src="../assets/audio/sesion4/crujido2.wav" type="audio/mpeg">
+  Tu navegador no soporta el elemento audio.
+</audio>
+
+
+
+</div>
+
+### Equipo 2
+**Estrés y calma**
+
+<div class="media-grid">
+
+<audio controls style="width: 100%; margin: 0.5rem 0;">
+  <source src="../assets/audio/sesion4/estrescalam2.wav" type="audio/mpeg">
+  Tu navegador no soporta el elemento audio.
+</audio>
+
+</div>
+
+### Equipo 3
+**Emergencia**
+
+<div class="media-grid">
+
+<audio controls style="width: 100%; margin: 0.5rem 0;">
+  <source src="../assets/audio/sesion4/emergencia.wav" type="audio/mpeg">
+  Tu navegador no soporta el elemento audio.
+</audio>
+
+</div>
+
+### Equipo 4
+**Ruptura**
+
+<div class="media-grid">
+
+<audio controls style="width: 100%; margin: 0.5rem 0;">
+  <source src="../assets/audio/sesion4/ruptura2-sinruido.wav" type="audio/mpeg">
+  Tu navegador no soporta el elemento audio.
+</audio>
+
+</div>
+
+### Equipo 5
+**Tormenta**
+
+<div class="media-grid">
+
+<audio controls style="width: 100%; margin: 0.5rem 0;">
+  <source src="../assets/audio/sesion4/tormenta.wav" type="audio/mpeg">
+  Tu navegador no soporta el elemento audio.
+</audio>
+
+</div>
+
+<style>
+.media-grid {
+  margin: 1.5rem 0;
+}
+.media-grid video, .media-grid audio {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+</style>
+
+### Proceso de trabajo
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  <div>
+    <img src="../assets/fotos/sesion4/foto01.jpg" alt="Proceso de grabación" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div>
+    <img src="../assets/fotos/sesion4/foto02.jpg" alt="Proceso de grabación" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div>
+    <img src="../assets/fotos/sesion4/foto03.jpg" alt="Proceso de grabación" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
+
 ### **Cierre y Reflexión: El Sonido como Coreógrafo**
 Al finalizar el montaje realizarmos la escucha de las piezas y la realización de otras en vivo. Con ello realizamos un **cierre reflexivo** con preguntas que buscaban conectar la práctica con la teoría:
 
