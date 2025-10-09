@@ -1,10 +1,10 @@
 # Sesión 5: Intermedialidad como Bisagra - Teoría y Práctica en Diálogo
 
-## 🔊 Calentamiento: Meditación Sónica
+## Calentamiento: Meditación Sónica
 
 Comenzamos la sesión con una **meditación sónica** que nos permitió sintonizar cuerpo y escucha, preparando nuestros sentidos para la exploración intermedial que seguiría. Un ejercicio de presencia auditiva que nos conectó con la materialidad del sonido y su capacidad para modificar nuestra percepción del espacio-tiempo.
 
-## 🔄 Revisión de la Sesión Anterior: Cartografías de Agencia Sonora
+## Revisión de la Sesión Anterior
 
 Retomamos los ejercicios de espacialización sonora beckettiana, reflexionando colectivamente sobre las preguntas que guiaron nuestra práctica:
 
@@ -14,7 +14,7 @@ Retomamos los ejercicios de espacialización sonora beckettiana, reflexionando c
 
 Las respuestas revelaron negociaciones entre el control compositivo y la autonomía del sonido, evidenciando cómo las prótesis tecnológicas pueden convertirse en co-creadoras de la dramaturgia.
 
-## 📚 Discusión Teórica: Intermedialidad como Territorio de Confluencias
+## Discusión Teórica: Intermedialidad como Territorio de Confluencias
 
 Profundizamos en las lecturas de **Ruth Cubillo Paniagua** y **María Andrea Giovine Yáñez**, construyendo colectivamente un mapa conceptual que articula sus principales aportaciones:
 
@@ -44,7 +44,7 @@ Algunas ideas retomadas durante la sesión
 
 [Ver el mapa conceptual en Excalidraw](https://excalidraw.com/#json=XF9m-NluWiTXCU6bUt-J-,lp_AvaFyfoYVS2-PcS8Ujw)
 
-## 🎥 Referente Artístico: 
+## Referente Artístico: 
 
 **Miguel Rodríguez Sepúlveda - [Concierto para Tres Machetes](https://www.miguelrodriguezsepulveda.com/concierto-para-tres-machetes)** 
 Analizamos la pieza de como ejemplo paradigmático de intermedialidad, donde el machete trasciende su función utilitaria para convertirse en prótesis sonora, instrumento musical y elemento coreográfico simultáneamente.
@@ -55,7 +55,7 @@ Algunos otros ejemplos de piezas y proyectos:
 - [Zoonoros. Laboratorio de Precariedad de inter(in)disciplina](https://www.zoonoros.com/)
 - [Forensis architecture](https://muac.unam.mx/exposicion/forensic-architecture)
 
-## 🎭 Ejercicio Práctico: Concierto Cuerpo-Objeto
+## Ejercicio Práctico: Concierto Cuerpo-Objeto
 
 La teoría se materializó en un ejercicio de performatividad sonora donde exploramos la relación cuerpo-objeto mediante materiales cotidianos:
 
@@ -72,7 +72,7 @@ Cada participante se presentó mediante un **gesto sonorizado**,  cómo la mater
 ![Ejercicio performativo 1](../assets/fotos/sesion5/foto01.jpg)
 ![Ejercicio performativo 2](../assets/fotos/sesion5/foto02.jpg)
 
-## 🔌 Demostración Tecnológica: Makey Makey como Interface Cyborg
+## Demostración Tecnológica: Makey Makey como Interface Cyborg
 
 Experimentamos con **Makey Makey** como sistema de interfaz corporal, descubriendo cómo cualquier material conductor puede convertirse en extensión sensible del cuerpo. Esta demostración abrió posibilidades para la próxima sesión, donde integraremos estos principios en composiciones cartográficas colectivas.
 
@@ -82,13 +82,13 @@ Algunos ejemplos de interfaces con Makey Makey:
 
 Para programar la makey makey pueden usar [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted) o [Pure Data](https://puredata.info/) aunque para este ejercicio usaremos Scratch.
 
-## 🔍 Reflexión Final: Intermedialidad como Metodología Viva
+## Reflexión Final: Intermedialidad como Metodología Viva
 
 Esta sesión revisamos la **intermedialidad como metodología** más que una simple técnica. Comprendimos que no se trata de "usar" medios, sino de investigar cómo los medios se relacionan, chocan y crean nuevos sentidos. La bisagra teoría-práctica giró fluidamente, demostrando que el marco conceptual no es un apéndice, sino el tejido conectivo que da profundidad a nuestra investigación creativa.
 
 **La intermedialidad nos exige ser artistas-investigadores, cartógrafos de territorios sensibles donde el cuerpo, la tecnología y el sonido negocian constantemente sus agencias.**
 
-## 📝 Tareas y Proyecciones
+## Tareas y Proyecciones
 
 ### Para la Próxima Sesión:
 - **Concierto a tres cuerpos** Comenzaremos la sesión con un ejercicio en donde por equipos de tres personas realizaremos un concierto a tres cuerpos retomando los objetos sonoros explorados en la sesion pasada.   
