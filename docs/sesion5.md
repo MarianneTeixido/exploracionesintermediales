@@ -78,7 +78,8 @@ Esta sesión revisamos la **intermedialidad como metodología** más que una sim
 ## Tareas y Proyecciones
 
 ### Para la Próxima Sesión:
-- **Concierto a tres cuerpos** Comenzaremos la sesión con un ejercicio en donde por equipos de tres personas realizaremos un concierto a tres cuerpos retomando los objetos sonoros explorados en la sesion pasada.   Es por ello que es importante que traigan los materiales sonoros con los que trabajaron en la sesion pasada. 
+- **Concierto a tres cuerpos** Comenzaremos la sesión con un ejercicio en donde por equipos de tres personas realizaremos un concierto a tres cuerpos retomando los objetos sonoros explorados en la sesion pasada.   Es por ello que es importante que traigan los materiales sonoros con los que trabajaron en la sesion pasada.    
+
 Posteriormente pasaremos a experimentar con interfaces conductivas utilizando Makey Makey y materiales cotidianos partiendo de la idea de realizar una cartografía sonora del espacio habitado en colectivo.   Para ello es importante que traigan los siguientes materiales:   
 - **Cartografiar sonoramente los espacios habitados** - recolectar por persona de 2 a 5 sonidos que evoquen estos espacios, pueden ser grabados, encontrados en línea o sintetizados. Subir los archivos a esta carpeta compartida: [Enlace a carpeta](https://drive.google.com/drive/folders/1BBBzlT-s1yLapiIgbitRCntYrhYxyo1-?usp=sharing)   
 NOTA: Crear una carpeta con tu nombre y subir los archivos ahí.
