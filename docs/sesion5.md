@@ -24,6 +24,8 @@ Profundizamos en las lecturas de **Ruth Cubillo Paniagua** y **María Andrea Gio
 
 **Cubillo**, por su parte, enfatiza la intermedialidad como espacio de diálogo entre prácticas significantes y medios tecnológicos, destacando las categorías de **transposición medial, combinación de medios y referencialidad intermedial**.
 
+### Mapa conceptual: Intermedialidad
+
 ```mermaid
 graph TD
     A[Intermedialidad] --> B[Bisagra Teoría-Práctica]
@@ -38,6 +40,8 @@ graph TD
     F --> I[Hibridación]
     G --> J[Transformación Digital]
 ```
+
+Este mapa conceptual sintetiza los principales conceptos discutidos en la sesión, mostrando cómo la intermedialidad articula teoría y práctica, ecosistemas mediales y el diálogo con la tecnología.
 
 Algunas ideas retomadas durante la sesión
 ![Mapa conceptual intermedialidad](../assets/img/mapa.png)
