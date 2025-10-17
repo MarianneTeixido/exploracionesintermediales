@@ -20,11 +20,20 @@ Las respuestas revelaron cómo la performatidad colectiva transforma los materia
 **[Teri Rueb - "Drift"](https://terirueb.net/drift-2004/)**: Analizamos esta instalación de paisaje sonoro activado por GPS como antecedente de nuestra cartografía, donde el recorrido corporal construye narrativa sonora.
 
 <br>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe title="vimeo-player" src="https://player.vimeo.com/video/47798251?h=f49e66995c" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe></div>
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/47798251?h=f49e66995c" 
+            frameborder="0" 
+            allow="autoplay; fullscreen; picture-in-picture" 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;"
+            title="Vimeo video player">
+    </iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
 
 **[Yoko Ono - "Pieza de voz para soprano"](https://historia-arte.com/obras/pieza-de-voz-para-soprano)** (1961): Esta instrucción de la artista conceptual japonesa forma parte de su libro Grapefruit y consiste simplemente en la frase: "Scream". Ono propone al cuerpo como instrumento cartográfico primario, donde los mapas se trazan no en el espacio exterior sino en el territorio interno de la respiración, los pulmones y la laringe. Esta obra seminal del arte conceptual y la performance conecta directamente con nuestra exploración de cartografías sensibles, recordándonos que el primer instrumento de medición es nuestro propio cuerpo respirante, y que todo mapeo sonoro comienza con el grito como acto fundamental.
 
-## Ejercicio Práctico: Prototipado de Interfaces Conductivas
+## Ejercicio. Hacia la Cartografía Sonora 
 
 Para comenzar con el ejercicio de cartografías sonora comenzamos escuchando los sonidos de los espacios habitados que cada participante trajo.
 
@@ -40,7 +49,6 @@ Colectivamente diseñaremos un **prototipo de zona cartográfica**, experimentan
 - La **escala del contacto** (toque suave vs. presión firme)
 - El **ritmo de la interacción** (activación puntual, sonido sostenido, repetición rítmica)
 
-## Integración Colectiva: Hacia la Cartografía Sonora Compartida
 
 A partir del prototipo colectivo, comenzamos a tejer una **cartografía** del espacio del aula trabajando por grupos:
 
@@ -58,7 +66,7 @@ Para este ejercicio, que completaremos en la sesión 7, cada grupo diseñará un
 En este momento del diplomado realizamos un balance colectivo. En el cual llegamos a las siguientes acuerdos:
 
 - La necesidad de profundizar en la exploración corporal y sonora.
-- - Dedicar más tiempo al inicio de cada sesión para calentamientos, ejercicios corporales y ejercicios de escucha activa.
+- Dedicar más tiempo al inicio de cada sesión para calentamientos, ejercicios corporales y ejercicios de escucha activa.
 - Incorporar reflexiones sinestéticas corporales y su agencia en la creación artística.
 - Fomentar la colaboración y el diálogo entre los participantes.
 - Incluir un espacio de seminario para compartir procesos, proyectos y referencias por estudiantes para presentar avances y recibir retroalimentación.
