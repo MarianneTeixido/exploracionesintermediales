@@ -28,7 +28,9 @@ Este taller propone un espacio de creación e investigación donde cuerpo, sonid
 | 2. [Prótesis corporales y extensiones sonoras](./docs/sesion2.md) | 12 septiembre   |  
 | 3. [El sonido como espacio dramático](./docs/sesion3.md) | 19 septiembre   | 
 | 4. [El Sonido como personaje escénico](./docs/sesion4.md) | 26 septiembre   |  
-| 5. [Intermedialidad como bisagra](./docs/sesion5.md) | 3 octubre   |  
+| 5. [Intermedialidad como bisagra](./docs/sesion5.md) | 3 octubre   | 
+| 6. [Cartografías sonoras](./docs/sesion6.md) | 10 octubre   |
+
  
 [Bibliografía](./docs/biblografia.md) 
 
