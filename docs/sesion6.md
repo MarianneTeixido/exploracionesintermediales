@@ -19,7 +19,7 @@ Las respuestas revelaron cómo la performatidad colectiva transforma los materia
 
 **[Teri Rueb - "Drift"](https://terirueb.net/drift-2004/)**: Analizamos esta instalación de paisaje sonoro activado por GPS como antecedente de nuestra cartografía, donde el recorrido corporal construye narrativa sonora.
 
-<br>
+
 
 <div style="padding:56.25% 0 0 0;position:relative;">
     <iframe src="https://player.vimeo.com/video/47798251?h=f49e66995c" 
@@ -30,6 +30,8 @@ Las respuestas revelaron cómo la performatidad colectiva transforma los materia
     </iframe>
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
+
+<br><br>
 
 **[Yoko Ono - "Pieza de voz para soprano"](https://historia-arte.com/obras/pieza-de-voz-para-soprano)** (1961): Esta instrucción de la artista conceptual japonesa forma parte de su libro Grapefruit y consiste simplemente en la frase: "Scream". Ono propone al cuerpo como instrumento cartográfico primario, donde los mapas se trazan no en el espacio exterior sino en el territorio interno de la respiración, los pulmones y la laringe. Esta obra seminal del arte conceptual y la performance conecta directamente con nuestra exploración de cartografías sensibles, recordándonos que el primer instrumento de medición es nuestro propio cuerpo respirante, y que todo mapeo sonoro comienza con el grito como acto fundamental.
 
