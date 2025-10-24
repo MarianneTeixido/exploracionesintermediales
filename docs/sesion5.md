@@ -90,6 +90,6 @@ NOTA: Crear una carpeta con tu nombre y subir los archivos ahí.
 
 ---
 
-*Próximo encuentro: Ampliando las fronteras del cuerpo sonoro mediante interfaces conductivas y cartografías auditivas del espacio habitado.*
-
 **[← Sesión 4](./sesion4.md)** | **[Sesión 6 →](./sesion6.md)**
+
+---

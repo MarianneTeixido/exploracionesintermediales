@@ -53,6 +53,6 @@ El cardumen nos enseñó que la coordinación no requiere de un director, sino d
 
 ---
 
-*Próximo encuentro: Ensamble final y puesta a punto para la exhibición pública de nuestras cartografías sensibles.*
-
 **[← Sesión 6](./sesion6.md)** 
+
+---

@@ -35,4 +35,6 @@ Explorar el concepto de prótesis corporal como extensión creativa del cuerpo e
 
 ---
 
-**[← Sesión 5](./sesion1.md)** | **[Sesión 7 →](./sesion3.md)**
+**[← Sesión 1](./sesion1.md)** | **[Sesión 3 →](./sesion3.md)**
+
+---

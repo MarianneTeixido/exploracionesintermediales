@@ -56,3 +56,5 @@ Herramienta de IA para estudiar, hacer podcast y mapas conceptuales a partir de 
 ---
 
 **[← Sesión 2](./sesion2.md)** | **[Sesión 4 →](./sesion4.md)**
+
+---

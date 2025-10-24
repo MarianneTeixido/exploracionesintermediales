@@ -27,4 +27,6 @@ Explorar la relación entre cuerpo, sonido y tecnología para crear propuestas e
 
 ---
 
-**[Sesión 2 →](./sesion2.md)**
+| **[Sesión 2 →](./sesion2.md)**
+
+---

@@ -79,4 +79,7 @@ En este momento del diplomado realizamos un balance colectivo. En el cual llegam
 - Preparar una breve presentación de algún proceso o proyecto personal relacionado con los temas del curso.
 
 
+---
 **[← Sesión 5](./sesion5.md)** | **[Sesión 7 →](./sesion7.md)**
+
+---
