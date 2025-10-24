@@ -35,6 +35,8 @@ Las respuestas revelaron cómo la performatidad colectiva transforma los materia
 
 **[Yoko Ono - "Pieza de voz para soprano"](https://historia-arte.com/obras/pieza-de-voz-para-soprano)** (1961): Esta instrucción de la artista conceptual japonesa forma parte de su libro Grapefruit y consiste simplemente en la frase: "Scream". Ono propone al cuerpo como instrumento cartográfico primario, donde los mapas se trazan no en el espacio exterior sino en el territorio interno de la respiración, los pulmones y la laringe. Esta obra seminal del arte conceptual y la performance conecta directamente con nuestra exploración de cartografías sensibles, recordándonos que el primer instrumento de medición es nuestro propio cuerpo respirante, y que todo mapeo sonoro comienza con el grito como acto fundamental.
 
+![Yoko Ono Scream](../assets/img/yoko.jpg)
+
 ## Ejercicio. Hacia la Cartografía Sonora 
 
 Para comenzar con el ejercicio de cartografías sonora comenzamos escuchando los sonidos de los espacios habitados que cada participante trajo.
