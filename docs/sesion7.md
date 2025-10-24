@@ -18,7 +18,15 @@ Exploramos la fusión indivisible entre acción vocal y movimiento:
 Desarrollamos un léxico corporal compartido a través de movimientos sonoro-gestuales como archivo corporal vivo.
 Utilizando grabadoras como extensiones tecnológicas de la memoria, documentamos nuestro vocabulario recién creado.
 
-![Ejercicio de grabación corporal](../assets/fotos/sesion7/foto01.jpg)
+<audio controls style="width: 100%; background: #f0f0f0; border-radius: 8px;">
+    <source src="../assets/audio/sesion6-01.mp3" type="audio/mpeg">
+    Tu navegador no soporta el audio.
+</audio>
+
+<audio controls style="width: 100%; background: #f0f0f0; border-radius: 8px;">
+    <source src="../assets/audio/sesion6-02.mp3" type="audio/mpeg">
+    Tu navegador no soporta el audio.
+</audio>
 
 ## 3. Montaje de la Cartografía: Del Ejercicio a la Instalación
 
@@ -31,7 +39,24 @@ Retomamos el trabajo con la cartografía sensible, realizamos el montaje técnic
 ### Ejecución de Piezas por equipos
 Cada equipo presentó su segmento cartográfico, aplicando relación gesto-sonido diseñada.
 
-![Montaje cartografía sonora](../assets/fotos/sesion7/foto02.jpg)
+![Montaje cartografía sonora](../assets/img/sesion6-01.jpg)
+
+![Montaje cartografía sonora](../assets/img/sesion6-03.jpg)
+
+<video width="100%" controls>
+  <source src="../assets/video/sesion6-equipo1.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento video.
+</video>
+
+<video width="100%" controls>
+  <source src="../assets/video/sesion6-equipo2.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento video.
+</video>
+
+<video width="100%" controls>
+  <source src="../assets/video/sesion6-equipo3.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento video.
+</video>
 
 ## 4. Reflexión Final: Hacia la Performance Colectiva
 
