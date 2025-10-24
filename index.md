@@ -30,6 +30,7 @@ Este taller propone un espacio de creación e investigación donde cuerpo, sonid
 | 4. [El Sonido como personaje escénico](./docs/sesion4.md) | 26 septiembre   |  
 | 5. [Intermedialidad como bisagra](./docs/sesion5.md) | 3 octubre   | 
 | 6. [Cartografías sonoras](./docs/sesion6.md) | 10 octubre   |
+| 7. [Vocabulario Sonoro Corporal - Del Gesto Aislado al Cardumen Sonoro](./docs/sesion7.md) | 17 octubre   |
 
  
 [Bibliografía](./docs/biblografia.md) 

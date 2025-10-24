@@ -175,3 +175,5 @@ Traer por persona al menos uno de los siguientes materiales.
 - Cinta Adhesiva Canela o Transparente  
 - Papel Kraft o Cartulina   
 o cualquier otro material que suene con el movimiento del cuerpo  
+
+**[← Sesión 3](./sesion3.md)** | **[Sesión 5 →](./sesion5.md)**

@@ -54,3 +54,5 @@ Creación de micro-escena sonora-visual en tres actos
 Herramienta de IA para estudiar, hacer podcast y mapas conceptuales a partir de un texto, audio, video o página web.
 
 ---
+
+**[← Sesión 2](./sesion2.md)** | **[Sesión 4 →](./sesion4.md)**
